@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://nrothera.github.io/photorama/gallery/"  
-  - JOURNAL: "https://nrothera.github.io/photorama/journal/"
-  - ABOUT: "https://nrothera.github.io/photorama/about/"
+  - GALLERY: "https://nrothera.github.io/lanalotnerpiano/gallery/"  
+  - JOURNAL: "https://nrothera.github.io/lanalotnerpiano/journal/"
+  - ABOUT: "https://nrothera.github.io/lanalotnerpiano/about/"
 
 # All translation keys
 translations:
