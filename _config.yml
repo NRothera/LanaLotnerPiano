@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://nrothera.github.io"
-baseurl: "/lanalotnerpiano"
+baseurl: "/LanaLotnerPiano"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Lana Lotner
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://nrothera.github.io/lanalotnerpiano/gallery/"  
-  - JOURNAL: "https://nrothera.github.io/lanalotnerpiano/journal/"
-  - ABOUT: "https://nrothera.github.io/lanalotnerpiano/about/"
+  - GALLERY: "https://nrothera.github.io/LanaLotnerPiano/gallery/"  
+  - JOURNAL: "https://nrothera.github.io/LanaLotnerPiano/journal/"
+  - ABOUT: "https://nrothera.github.io/LanaLotnerPiano/about/"
 
 # All translation keys
 translations:
