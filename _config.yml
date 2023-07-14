@@ -34,8 +34,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://nrothera.github.io/LanaLotnerPiano/gallery/"  
-  - JOURNAL: "https://nrothera.github.io/LanaLotnerPiano/journal/"
-  - ABOUT: "https://nrothera.github.io/LanaLotnerPiano/about/"
+  - TESTIMONIALS: "https://nrothera.github.io/LanaLotnerPiano/journal/"
+  - MEET LANA: "https://nrothera.github.io/LanaLotnerPiano/about/"
 
 # All translation keys
 translations:
