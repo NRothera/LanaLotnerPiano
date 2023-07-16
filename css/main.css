@@ -141,6 +141,15 @@ hr.small {
   -o-background-size: cover;
   margin-bottom: 50px;
 }
+.about-header {
+  background: no-repeat center center;
+  background-color: #808080;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: 30%;
+  -o-background-size: cover;
+  margin-bottom: 50px;
+}
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
