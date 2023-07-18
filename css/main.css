@@ -154,15 +154,13 @@ hr.small {
 .u-container-layout {
   position: relative;
   flex: 1;
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .u-section-2 .u-image-1 {
   min-height: 623px;
-  background-image: url(//images03.nicepage.com/a1389d7…/6c51776…/pexels-photo-6507482.jpeg?version=);
   background-position: 0% 50%;
 }
-
 
 .about-header {
   background: no-repeat center center;
