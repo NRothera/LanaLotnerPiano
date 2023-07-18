@@ -3,8 +3,15 @@ layout: about
 title: "Lana"
 description: "'It's my duty to share Ukranian cultre and music'"
 active: about
+images:
+ - image_path: /gallery/profile/profile_image.jpg
 ---
-<img src="../gallery/profile/profile_image.jpg" alt="Lana Lotner" class="profile_image">
+
+{% for image in page.images %}  	
+    <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}">
+{% endfor %}
+
+<img src="" alt="Lana Lotner" class="profile_image">
 <h4>Lana has 12 years experience playing professional piano</h4>
 <br>
 <h4>She has played at venues such as the Royal Opera House, been on the BBC Radio and at events at Winchester Gallery</a> app.</h4>
