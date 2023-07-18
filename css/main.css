@@ -142,7 +142,6 @@ hr.small {
   margin-bottom: 50px;
 }
 .profile_image {
-  background: url("../gallery/profile_image.jpg");
   background-size:cover;
   border: none;
   border-radius: 50%;
