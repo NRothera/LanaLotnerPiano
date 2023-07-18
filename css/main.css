@@ -141,6 +141,16 @@ hr.small {
   -o-background-size: cover;
   margin-bottom: 50px;
 }
+.profile_image {
+  background: url("../gallery/profile_image.jpg");
+  background-size:cover;
+  border: none;
+  border-radius: 50%;
+  box-shadow: 3px 1px 2px 1px var(--cor-de-foto-fundo);
+  height: 19rem;
+  margin-top: 2rem;
+  width: 49rem;
+}
 .about-header {
   background: no-repeat center center;
   background-color: #808080;
