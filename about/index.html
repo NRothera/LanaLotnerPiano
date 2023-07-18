@@ -4,11 +4,11 @@ title: "Lana"
 description: "'It's my duty to share Ukranian cultre and music'"
 active: about
 images:
- - image_path: /img/profile/profile_image.heic
+ - image_path: /img/profile/profile_image.img
 ---
 
 {% for image in page.images %}  	
-    <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}">
+    <div class="profile_image"><img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></div>
 {% endfor %}
 
 <img src="" alt="Lana Lotner" class="profile_image">
