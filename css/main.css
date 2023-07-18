@@ -141,15 +141,29 @@ hr.small {
   -o-background-size: cover;
   margin-bottom: 50px;
 }
-.profile_image {
-  background-size:cover;
-  border: none;
-  border-radius: 50%;
-  box-shadow: 3px 1px 2px 1px var(--cor-de-foto-fundo);
-  height: 19rem;
-  margin-top: 2rem;
-  width: 49rem;
+
+.u-layout-cell {
+  position: relative;
+  display: flex;
+  background-clip: padding-box;
+  background-origin: padding-box;
 }
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+.u-container-layout {
+  position: relative;
+  flex: 1;
+  max-width: 100%;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 623px;
+  background-image: url(//images03.nicepage.com/a1389d7…/6c51776…/pexels-photo-6507482.jpeg?version=);
+  background-position: 0% 50%;
+}
+
+
 .about-header {
   background: no-repeat center center;
   background-color: #808080;
