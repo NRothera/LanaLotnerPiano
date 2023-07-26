@@ -150,6 +150,11 @@ hr.small {
 }
 .u-section-2 .u-container-layout-2 {
   padding: 30px;
+  position: relative;
+  border-radius: 16px;
+  left: 80px;
+  border: 3px solid #73AD21;
+  border: 1px solid #ccc!important;
 }
 .u-container-layout {
   position: relative;
