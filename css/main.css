@@ -160,7 +160,7 @@ hr.small {
   max-width: 50%;
 }
 
-.u-section-2 .u-image-1 {
+img .u-section-2 .u-image-1 {
   min-height: 20px;
   min-width:20%;
   max-width: 30%;
@@ -172,7 +172,6 @@ hr.small {
   position: absolute;
   top: 8px;
   left: 16px;
-  
 }
 
 .u-right-of-image {
