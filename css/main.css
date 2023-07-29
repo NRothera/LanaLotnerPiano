@@ -146,24 +146,29 @@ hr.small {
   position: relative;
   float: left;
   display: flex;
+  background-clip: padding-box;
+  background-origin: padding-box;
 }
 .u-section-2 .u-container-layout-2 {
   padding: 30px;
   position: relative;
-  border-radius: 16px;
-  left: 80px;
-  border: 3px solid #73AD21;
-  border: 1px solid #ccc!important;
+  border-radius: 8px;
 }
 .u-container-layout {
   position: relative;
   flex: 1;
-  max-width: 100%;
 }
 
 .u-section-2 .u-image-1 {
   min-height: 623px;
   background-position: 0% 50%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+  max-width: 50%;
+  
 }
 
 .u-right-of-image {
