@@ -162,13 +162,16 @@ hr.small {
 
 .u-section-2 .u-image-1 {
   min-height: 20px;
+  min-width:20%;
+  max-width: 30%;
+  max-height: 40%;
   background-position: 0% 50%;
   border: 1px solid #ddd;
-  border-radius: 4px;
   padding: 5px;
-  width: 100px;
-  height: 100px;
   max-width: 50%;
+  position: absolute;
+  top: 8px;
+  left: 16px;
   
 }
 
