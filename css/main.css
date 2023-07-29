@@ -160,13 +160,13 @@ hr.small {
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 623px;
+  min-height: 50px;
   background-position: 0% 50%;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   max-width: 50%;
   
 }
