@@ -155,9 +155,16 @@ hr.small {
   border-radius: 8px;
 }
 .u-container-layout {
-  position: relative;
+  position: absolute;
   flex: 1;
-  max-width: 50%;
+  width: 250px;
+  top: 8px;
+  left: 16px;
+  height: 300px;
+  border: 2px solid #000000;
+  border-radius: 20px;
+  padding: 5px;
+  background-color: #3a2602;
 }
 
 img .u-section-2 .u-image-1 {
@@ -175,9 +182,9 @@ img .u-section-2 .u-image-1 {
 }
 
 .u-right-of-image {
-  text-align: right;
-  display: inline;
-  padding-left: 20px;
+  text-align: left;
+  display: inline-block;
+  padding-left: 300px;
 }
 
 .about-header {
