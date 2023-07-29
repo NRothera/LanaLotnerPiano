@@ -157,10 +157,11 @@ hr.small {
 .u-container-layout {
   position: relative;
   flex: 1;
+  max-width: 50%;
 }
 
 .u-section-2 .u-image-1 {
-  min-height: 50px;
+  min-height: 20px;
   background-position: 0% 50%;
   border: 1px solid #ddd;
   border-radius: 4px;
