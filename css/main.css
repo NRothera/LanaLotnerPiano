@@ -144,6 +144,7 @@ hr.small {
 
 .u-layout-cell {
   position: relative;
+  float: left;
   display: flex;
   background-clip: padding-box;
   background-origin: padding-box;
@@ -169,6 +170,11 @@ hr.small {
 .u-section-2 .u-image-1 {
   min-height: 623px;
   background-position: 0% 50%;
+}
+
+.u-right-of-image {
+  text-align: right;
+  display: inline;
 }
 
 .about-header {
