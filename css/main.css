@@ -187,6 +187,11 @@ img .u-section-2 .u-image-1 {
   padding-left: 300px;
 }
 
+.u-under-image {
+  text-align: left;
+  display: inline;
+}
+
 .about-header {
   background: no-repeat center center;
   background-color: #808080;
