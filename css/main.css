@@ -148,8 +148,8 @@ hr.small {
 }
 
 .profile-picture {
-  width: 150px;
-  height: 150px;
+  width: 350px;
+  height: 200px;
   margin: 20px auto;
   display: block;
   object-fit: cover;
@@ -163,7 +163,7 @@ hr.small {
 
 .about-title {
   margin: 0; /* Remove default margin for h2 */
-  font-size: 24px;
+  font-size: 60px;
 }
 
 .about-header {
