@@ -23,7 +23,7 @@ h6 {
 a {
   color: #760824;
   transition: color .4s;
-  text-decorarion: none;
+  text-decoration: none;
 }
 a:hover,
 a:focus {
@@ -55,6 +55,19 @@ hr.small {
   width: 100%;
   font-family: 'Times New Roman', serif;
 }
+
+.navbar-custom::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%; /* Adjust the width as needed */
+  height: 1px; /* Thin line height */
+  background-color: white; /* White line color */
+}
+
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
