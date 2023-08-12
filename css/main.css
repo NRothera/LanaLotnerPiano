@@ -55,6 +55,7 @@ hr.small {
   width: 100%;
   font-family: 'Times New Roman', serif;
   border-bottom: 2px solid white;
+  height:34px;
 }
 
 .navbar-custom::after {
