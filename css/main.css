@@ -146,6 +146,9 @@ hr.small {
   display: flex;
   align-items: center;
   padding: 20px;
+  position:absolute;
+  top: 0;
+  left: 0;
 }
 .profile-picture {
     width: 80px; /* Adjust this value to your desired width */
