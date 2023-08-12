@@ -162,6 +162,10 @@ hr.small {
   padding: 0 20%;
 }
 
+.about-title {
+  margin: 0; /* Remove default margin for h2 */
+}
+
 .about-header {
   background: no-repeat center center;
   background-color: #808080;
