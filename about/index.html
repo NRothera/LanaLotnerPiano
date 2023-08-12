@@ -8,15 +8,14 @@ images:
 ---
 
 {% for image in page.images %} 
-<div class="u-container-style u-layout-cell u-size-41 u-layout-cell-1">	
-    <!-- <img class="u-container-layout u-container-layout-2" src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"> -->
-    <div class="u-right-of-image">
-        <p>Svitlana is a professional Ukrainian pianist, operage coach, music manager and teacher, whose talent knows no bounds</p>
+<div class="profile-container">
+    <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" alt="Profile Picture" class="profile-picture">
+    <div class="profile-text">
+      <h1>Lana Shamnia</h1>
+      <p>Svitlana is a professional Ukrainian pianist, operage coach, music manager and teacher, whose talent knows no bounds</p>
         <p>With 8 years of experience, Svitlana has mastered the art of piano performance, coaching opera singers and imparting a comprehensive music education</p>
         <p>Ever since she was young, a flame for classical music was kindled in her heart, and that passion is continuing to burn brightly throughout her entire life</p>
         <p>Svitlana has performed in chamber and concert halls of Italy, Czech Republic, Lithuania and Germany</p>
-    </div>
-    <div class="u-under-image">
         <p>She different  international competitions and festivals:
             «Virtuosi per musica di pianoforte» Usti nad Labem in the Czech Republic,
             the award Carpathian fondation Development Culture,
@@ -26,8 +25,7 @@ images:
         <p>To improve her musical skills she has attended master-class with the following outstanding musicians:
             Andrzej Jasinski, Isabella Lo Porto, Eugene Indjic, Vera Nosina, Mikhail Voskresensky, Alessandra Zhvirblitte, Andrzej Tatarski, Jarosław Drzewiecki, Lukas Geniušas, Michael Striharzh.</p>
     </div>
-        
-</div> 
+  </div>
 {% endfor %}
 
 
